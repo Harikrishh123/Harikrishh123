@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Neelamsetti Harikrishna</h1>
-<h3 align="center">I'm a passionate full stack developer who loves building dynamic websites and exploring the world of machine learning and data science. I enjoy working across the tech stack, from front-end to back-end, and have a solid grip on SQL databases. Solving data structure and algorithm challenges excites me, and I'm always looking to learn and grow as a developer.</h3>
+<h3 align="center">I'm a passionate full stack developer who loves building dynamic websites and exploring the world of machine learning and data science. I work across the tech stack using frameworks like React, Express, Node.js, and Flask, and have a solid grip on SQL databases. Solving data structure and algorithm challenges excites me, and I'm always looking to learn and grow as a developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/harikrish720897" target="blank"><img src="https://img.shields.io/twitter/follow/harikrish720897?logo=twitter&style=for-the-badge" alt="harikrish720897" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend frameworks, data science**
+- 🌱 I’m currently open to jobs **Software Engineer, Web Devloper, Data Science, ML Engineer**
 
 - 💬 Ask me about **react, Node.js, Express.js, Python, Flask**
 
